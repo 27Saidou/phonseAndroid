@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="game_status_text">Joueur X c\'est a votre Tour!</string>
+    <string name="game_replay_text">Rejouer</string>
+</resources>
